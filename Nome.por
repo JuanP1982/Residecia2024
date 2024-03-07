@@ -13,7 +13,11 @@ programa
 		
 		escreva("Digite sua idade: ")
 		leia(idade)
+<<<<<<< HEAD
 		limpa()
+=======
+                limpa()
+>>>>>>> 28fa449931f11ee40858b9155a4f61130012a794
 
 		escreva("Olá ", nome, " ", sobrenome, "\nsua idade é : ", idade, " anos" )
 	}
