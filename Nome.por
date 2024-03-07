@@ -14,7 +14,7 @@ programa
 		escreva("Digite sua idade: ")
 		leia(idade)
 
-		escreva("Olá ", nome, "\nseu sobrenome é: ", sobrenome, "\nE sua idade é : ", idade, " anos" )
+		escreva("Olá ", nome, " ", sobrenome, "\nsua idade é : ", idade, " anos" )
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -22,7 +22,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 295; 
+ * @POSICAO-CURSOR = 277; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
