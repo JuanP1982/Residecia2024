@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-	inteiro n1, n2, soma
+	real n1, n2, soma
 		escreva("Digite um número: ")
 		leia(n1)
 
