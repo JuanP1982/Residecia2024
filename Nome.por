@@ -13,6 +13,7 @@ programa
 		
 		escreva("Digite sua idade: ")
 		leia(idade)
+                limpa()
 
 		escreva("Olá ", nome, " ", sobrenome, "\nsua idade é : ", idade, " anos" )
 	}
